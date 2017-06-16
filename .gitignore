@@ -38,3 +38,4 @@ launch.json
 !/plugins/AuditLog/
 enabletests
 /vendor/
+.directory
