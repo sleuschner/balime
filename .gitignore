@@ -37,3 +37,4 @@ launch.json
 !/plugins/Demo/
 !/plugins/AuditLog/
 enabletests
+/vendor/
