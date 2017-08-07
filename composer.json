@@ -26,7 +26,8 @@
 		"php" : ">=5.4.2",
 		"ext-mbstring" : "*",
 		"ext-gd" : "*",
-		"libapache2-mod-r-base" : "*"
+		"libapache2-mod-r-base" : "*",
+		"mod_R" : "1.2.*"
 	},
 	"minimum-stability" : "dev"
 }
