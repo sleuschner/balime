@@ -1,9 +1,3 @@
-# All Apache modules are loaded this way. The most important thing to
-# remember is that the string "R_module" is case sensitive, so get it
-# right in the config file.
-
-LoadModule R_module           /app/.apt/usr/lib/apache2/modules/mod_R.so 
-
 <IfModule mod_rewrite.c>
     RewriteEngine on
 
