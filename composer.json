@@ -25,7 +25,8 @@
 	"require" : {
 		"php" : ">=5.4.2",
 		"ext-mbstring" : "*",
-		"ext-gd" : "*"
+		"ext-gd" : "*",
+		"r-base" : "*"
 	},
 	"minimum-stability" : "dev"
 }
